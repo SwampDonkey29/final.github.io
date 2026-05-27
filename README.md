@@ -1,0 +1,1 @@
+So our repository is for our school final project. We were given the choice to create a 2 page website, so as other did as well we went generic with a bakery. What I really like about this project is the freedom of choice but also how everything ties together from the entire year
